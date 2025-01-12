@@ -34,13 +34,17 @@ This project uses a mix of data analysis and NLP-focused tools:
 [View Code](https://github.com/soumya-thoutam/Data-Driven-Reasoning-Analysis/blob/main/A_NLP_ARC.ipynb)
 
 ### 🏗️ Project Structure
-1. **Data Collection:** Retrieved the ARC dataset for processing.
-2. **Preprocessing:** Cleaned, tokenized, and transformed the data into embeddings.
-3. **Model Fine-Tuning:** Adapted pre-trained BERT models to handle reasoning-based questions.
-4. **Evaluation:** Assessed model accuracy and identified areas for improvement.
+1. Data Collection: Retrieved the ARC dataset for processing.
+   
+2. Preprocessing: Cleaned, tokenized, and transformed the data into embeddings.
+
+3. Model Fine-Tuning: Adapted pre-trained BERT models to handle reasoning-based questions.
+   
+4. Evaluation: Assessed model accuracy and identified areas for improvement.
 
 
 ### 🔍 Insights from the Project
+
 **1. Data Preprocessing:**
   * Cleaned and tokenized unstructured text data from the ARC dataset.
   * Used embeddings to transform text into formats compatible with NLP models.
