@@ -22,14 +22,14 @@ The AI2 Reasoning Challenge (ARC) dataset is designed for natural language under
 **Access the Dataset:** [ARC Dataset](https://huggingface.co/datasets/allenai/ai2_arc)
 
 ### ⚙️ Key Technologies
-Employs a mix of data analysis and NLP-focused tools:
+Employs a mix of data analysis and NLP-focused tools: [View Code](https://github.com/soumya-thoutam/Data-Driven-Reasoning-Analysis/blob/main/A_NLP_ARC.ipynb)
 
 * Python for end-to-end processing.
 * Libraries:
   * pandas, numpy for data manipulation and analysis.
   * transformers (Hugging Face) for fine-tuning pre-trained models (BERT).
   * matplotlib, seaborn for performance visualizations.
-  * sklearn for classification evaluation metrics.
+  * sklearn for classification evaluation metrics. 
 
 ### 🏗️ Project Structure
 1. **Data Collection:** Retrieved the ARC dataset for processing.
@@ -60,7 +60,7 @@ Employs a mix of data analysis and NLP-focused tools:
 * Visualized key insights using Python libraries, including performance metrics and error trends.
 * Proposed improvements for better reasoning task accuracy.
 
-### 🌟 This Project Demonstrates
+### 🌟 Project Demonstrates
 * **Analytical Thinking:** Tackling complex problems with a structured approach.
 * **Data Handling:** Expertise in managing and preprocessing unstructured datasets.
 * **Model Evaluation:** Interpreting results and refining workflows for better performance.
